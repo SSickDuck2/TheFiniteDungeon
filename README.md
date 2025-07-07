@@ -1,6 +1,9 @@
 this is a shit show, sorry
 
-hướng dẫn tương tác có sẵn ở trong game rồi :((
+hướng dẫn tương tác có sẵn ở trong game rồi :(( (lie)
+di chuyển A và D để sang trái phải
+Space để nhảy
+J để tấn công
 
 Tính năng đã hoàn thành
 
