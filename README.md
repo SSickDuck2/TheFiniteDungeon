@@ -1,4 +1,8 @@
-this is a shit show, sorry
+//this is a shit show, sorry
+//Đây là hướng dẫn + game đầu tiên + tham khảo từ nhiều nguồn nên sẽ có rất nhiều bug, lỗi, sai sót. Hi vọng mọi người xem và góp ý. Em cảm ơn
+
+
+Cốt truyện (chắc thế): Bạn vào vai một thợ săn tiền thưởng liều lĩnh, tiến vào hầm ngục để chinh phục những đỉnh cao xã hội, với cơ hội nhỏ nhoi trở thành kẻ giàu có và được trọng vọng
 
 hướng dẫn tương tác có sẵn ở trong game rồi :(( (lie)
 di chuyển A và D để sang trái phải
@@ -41,6 +45,6 @@ Tính năng đã hoàn thành
 
 8. Âm thanh & Tween
 - Âm thanh cho các hành động chính.
-- Sử dụng Tween (như DOTween) để làm hiệu ứng động.
+- Sử dụng Tween (như DOTween) để làm hiệu ứng động. (đang bị xung đột nhưng chưa biết cách xử lý)
 
 9. Tilemap
