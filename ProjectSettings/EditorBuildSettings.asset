@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu (Not Working).unity
+    guid: 82941294e9b5e884bbb07a7dab5a3afe
+  - enabled: 1
+    path: Assets/Scenes/Toturial.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Toturial 1.unity
+    guid: 516e4c2f533c08f4ebe13fb6ea4d390f
+  - enabled: 1
+    path: Assets/Scenes/Toturial 2.unity
+    guid: cc6d1fc30f9a81848ba18ce8e32e4c2a
+  - enabled: 1
+    path: Assets/Scenes/Toturial 3.unity
+    guid: 2d5e181a3d936df4da12424a3638a400
+  m_configObjects: {}
